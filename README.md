@@ -16,12 +16,12 @@ Our app is targetted to ages 18-30, who are single looking to mingle
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category:** Social Media
+- **Mobile:** iOS
+- **Story:** User's can look for compatiable partner
+- **Market:** 18-30 year olds
+- **Habit:** This app can decrease the statistic of single people
+- **Scope:** User creates profile with age, location, interests, and etc. On profile can choose hobbies to match up with other users.
 
 ## Product Spec
 
@@ -29,22 +29,28 @@ Our app is targetted to ages 18-30, who are single looking to mingle
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
-* ...
-
-**Optional Nice-to-have Stories**
-
-* [fill in your required user stories here]
-* ...
+* User can create a new account
+* User can login
+* User can search for other users according to location
+* User can like a blog
+* User can follow/unfollow another user
+* User can view a feed of blogs
+* User can update profile
 
 ### 2. Screen Archetypes
 
-* [list first screen here]
-   * [list associated required story here]
-   * ...
-* [list second screen here]
-   * [list associated required story here]
-   * ...
+* Login Screen
+   * User can login
+* Register Screen
+   * User can create a new account
+* Stream
+   * User can view a feed of blogs
+   * User can double tap to like blogs
+* Creation
+   * User can create blogs to post
+* Search
+   * User can search for other users near their location
+   * User can chat 
 
 ### 3. Navigation
 
