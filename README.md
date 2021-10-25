@@ -56,9 +56,9 @@ Our app is targetted to ages 18-30, who are single looking to mingle
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Hobby selection
+* Profile
+* 
 
 **Flow Navigation** (Screen to Screen)
 
