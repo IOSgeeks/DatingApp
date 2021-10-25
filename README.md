@@ -12,7 +12,7 @@ Original App Design Project - README Template
 
 ## Overview
 ### Description
-[Description of your app]
+Speed dating app
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
