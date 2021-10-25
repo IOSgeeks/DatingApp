@@ -12,7 +12,7 @@ Original App Design Project - README Template
 
 ## Overview
 ### Description
-Speed dating app
+Our app is targetted to ages 18-30, who are single looking to mingle 
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
