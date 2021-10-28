@@ -65,9 +65,9 @@ Our app is targetted to ages 18-30, who are single looking to mingle
 * Sign up/Sign in
    * If they click on sign up it leads to a page where they input their own information.
    * If they click on sign in it leads to a "enter username and password" page.
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
+* Profile page
+   * Add/Edit new information into user's profile page
+   
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
