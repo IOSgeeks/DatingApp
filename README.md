@@ -71,9 +71,12 @@ Our app is targetted to ages 18-30, who are single looking to mingle
 
 * View Matches Page 
   * Description of the matched users/ things they like / their bio etc
+  * Will indicate whether they are in the same corresponding cuny school
+  * 
 
 * Chat Box Page 
    * Page to message the matched users. 
+   * 
 
 
    
