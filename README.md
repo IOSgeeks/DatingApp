@@ -19,8 +19,8 @@ Our app is targetted to ages 18-30, who are single looking to mingle
 - **Category:** Social Media
 - **Mobile:** iOS
 - **Story:** User's can look for compatiable partner
-- **Market:** CUNY students (must enter cuny email for verification) 
-- **Habit:** This app can decrease the statistic of single people and increase social interaction at CUNY schools. 
+- **Market:** CUNY students
+- **Habit:** This app can decrease the statistic of single people
 - **Scope:** User creates profile with age, location, interests, and etc. On profile can choose hobbies to match up with other users.
 
 ## Product Spec
@@ -32,10 +32,11 @@ Our app is targetted to ages 18-30, who are single looking to mingle
 * User can create a new account
 * User can login
 * User can search for other users according to location
-* User can click on a like button
+* User can like a blog
 * User can follow/unfollow another user
 * User can view a feed of blogs
 * User can update profile
+* CUNY student verification
 
 ### 2. Screen Archetypes
 
@@ -43,6 +44,13 @@ Our app is targetted to ages 18-30, who are single looking to mingle
    * User can login
 * Register Screen
    * User can create a new account
+* Edit Profile
+  * User can edit their profile
+* Stream
+  * User can view other profiles and like/dislike them   
+* Message
+  * User can message a different user if they both liked each other
+
 * Stream
    * User can view a feed of blogs
    * User can double tap to like blogs
@@ -64,19 +72,15 @@ Our app is targetted to ages 18-30, who are single looking to mingle
 
 * Sign up/Sign in
    * If they click on sign up it leads to a page where they input their own information.
-   * Sign up will ask for username, password, cuny email, age, and interests. 
    * If they click on sign in it leads to a "enter username and password" page.
 * Profile page
    * Add/Edit new information into user's profile page
 
 * View Matches Page 
   * Description of the matched users/ things they like / their bio etc
-  * Will indicate whether they are in the same corresponding cuny school
-  * 
 
 * Chat Box Page 
    * Page to message the matched users. 
-   * 
 
 
    
