@@ -32,7 +32,7 @@ Our app is targetted to ages 18-30, who are single looking to mingle
 * User can create a new account
 * User can login
 * User can search for other users according to location
-* User can like a blog
+* User can click on a like button
 * User can follow/unfollow another user
 * User can view a feed of blogs
 * User can update profile
