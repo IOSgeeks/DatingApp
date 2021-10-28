@@ -19,7 +19,7 @@ Our app is targetted to ages 18-30, who are single looking to mingle
 - **Category:** Social Media
 - **Mobile:** iOS
 - **Story:** User's can look for compatiable partner
-- **Market:** 18-30 year olds
+- **Market:** CUNY students (must enter cuny email for verification) 
 - **Habit:** This app can decrease the statistic of single people
 - **Scope:** User creates profile with age, location, interests, and etc. On profile can choose hobbies to match up with other users.
 
@@ -64,6 +64,7 @@ Our app is targetted to ages 18-30, who are single looking to mingle
 
 * Sign up/Sign in
    * If they click on sign up it leads to a page where they input their own information.
+   * Sign up will ask for username, password, cuny email, age, and interests. 
    * If they click on sign in it leads to a "enter username and password" page.
 * Profile page
    * Add/Edit new information into user's profile page
