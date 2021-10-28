@@ -12,15 +12,16 @@ Original App Design Project
 
 ## Overview
 ### Description
-Our app is targetted to ages 18-30, who are looking for social interaction
+After covid and having to quarantine, social interaction can be difficult especially to CUNY students who had to go through semesters of mainly online classes. Our app will help fix this issue as our app will allow CUNY students form bonds in a fun and simple manner.
+
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
 - **Category:** Social Media
 - **Mobile:** iOS
-- **Story:** User's can look for compatiable partner/friends based on common interests
+- **Story:** User's can look for compatiable partner
 - **Market:** CUNY students
-- **Habit:** This app can decrease the statistic of lonely individuals
+- **Habit:** This app can decrease the statistic of single people
 - **Scope:** User creates profile with age, location, interests, and etc. On profile can choose hobbies to match up with other users.
 
 ## Product Spec
@@ -36,7 +37,7 @@ Our app is targetted to ages 18-30, who are looking for social interaction
 * User can follow/unfollow another user
 * User can view a feed of blogs
 * User can update profile
-* CUNY student verification
+* CUNY student verification using school email
 
 ### 2. Screen Archetypes
 
