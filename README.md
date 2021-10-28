@@ -18,7 +18,7 @@ Our app is targetted to ages 18-30, who are single looking to mingle
 [Evaluation of your app across the following attributes]
 - **Category:** Social Media
 - **Mobile:** iOS
-- **Story:** User's can look for compatiable partner
+- **Story:** User's can look for compatiable partner based on common interests
 - **Market:** CUNY students
 - **Habit:** This app can decrease the statistic of single people
 - **Scope:** User creates profile with age, location, interests, and etc. On profile can choose hobbies to match up with other users.
