@@ -87,7 +87,7 @@ After covid and having to quarantine, social interaction can be difficult especi
    
 
 ## Wireframe
-<img src="https://imgur.com/a/vDk5qz6" width=800>
+<img src="https://i.imgur.com/9CrjH1K.jpg" width=800><br>
 
 ## Schema 
 [This section will be completed in Unit 9]
