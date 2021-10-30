@@ -101,14 +101,21 @@ After covid and having to quarantine, social interaction can be difficult especi
    | likedProfile  | Boolean  | shows if user liked another users profile |
    | message       | String   | allows users to interact with each other 1 on 1 |
    | image         | File     | image that user posts | 
+   
 ### Networking
 - [Add list of network requests by screen ]
     * Login Screen
-       *Read/GET) Query logged in user object
-       *(Update/PUT) Update user profile image
+       *(Read/GET) Query logged in user object
     * Register Screen
-    * Stream
-    * Edit Profile
-       *(Update/PUT) Update user profile image
+       *(Create/POST) Create a new profile
+    * Stream Screen
+       *(Read/GET) Query all user profiles so a given user can choose to like the profile or not
+    * Edit Profile Screen
+       *(Update/PUT) Update user profile 
+    * Messaging Screen
+       *(Create/POST) Create a new message
+       *(Read/GET) Other users message
+
+
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]  
