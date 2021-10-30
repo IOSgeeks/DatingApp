@@ -105,16 +105,16 @@ After covid and having to quarantine, social interaction can be difficult especi
 ### Networking
 - [Add list of network requests by screen ]
     * Login Screen
-       *(Read/GET) Query logged in user object
+       * (Read/GET) Query logged in user object
     * Register Screen
-       *(Create/POST) Create a new profile
+       * (Create/POST) Create a new profile
     * Stream Screen
-       *(Read/GET) Query all user profiles so a given user can choose to like the profile or not
+       * (Read/GET) Query all user profiles so a given user can choose to like the profile or not
     * Edit Profile Screen
-       *(Update/PUT) Update user profile 
+       * (Update/PUT) Update user profile 
     * Messaging Screen
-       *(Create/POST) Create a new message
-       *(Read/GET) Other users message
+       * (Create/POST) Create a new message
+       * (Read/GET) Other users message
 
 
 - [Create basic snippets for each Parse network request]
