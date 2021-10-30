@@ -103,5 +103,9 @@ After covid and having to quarantine, social interaction can be difficult especi
    | image         | File     | image that user posts | 
 ### Networking
 - [Add list of network requests by screen ]
+    * Login Screen
+    * Register Screen
+    * Stream
+    * Edit Profile
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]  
