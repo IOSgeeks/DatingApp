@@ -98,7 +98,6 @@ After covid and having to quarantine, social interaction can be difficult especi
    | objectId      | String   | unique id for the user post (default field) |
    | author        | Pointer to User| image author |
    | image         | File     | image that user posts |
-   | caption       | String   | image caption by author |
    | commentsCount | Number   | number of comments that has been posted to an image |
    | likesCount    | Number   | number of likes for the post |
    | createdAt     | DateTime | date when post is created (default field) |
