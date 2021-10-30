@@ -104,8 +104,11 @@ After covid and having to quarantine, social interaction can be difficult especi
 ### Networking
 - [Add list of network requests by screen ]
     * Login Screen
+       Read/GET) Query logged in user object
+       (Update/PUT) Update user profile image
     * Register Screen
     * Stream
     * Edit Profile
+       (Update/PUT) Update user profile image
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]  
