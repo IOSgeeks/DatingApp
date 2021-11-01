@@ -35,7 +35,7 @@ After covid and having to quarantine, social interaction can be difficult especi
 * User can search for other users according to location
 * User can like a blog
 * User can follow/unfollow another user
-* User can view a feed of blogs
+* User can view a feed of blogs-music
 * User can update profile
 * CUNY student verification using school email
 
@@ -53,10 +53,10 @@ After covid and having to quarantine, social interaction can be difficult especi
   * User can message a different user if they both liked each other
 
 * Stream
-   * User can view a feed of blogs
-   * User can double tap to like blogs
+   * User can view a feed of blogs-music
+   * User can double tap to like blogs-music
 * Creation
-   * User can create blogs to post
+   * User can create blogs to post-music
 * Search
    * User can search for other users near their location
    * User can chat 
