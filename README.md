@@ -22,7 +22,7 @@ After covid and having to quarantine, social interaction can be difficult especi
 - **Story:** User's can look for compatiable partner
 - **Market:** CUNY students
 - **Habit:** This app can decrease the statistic of single people
-- **Scope:** User creates profile with age, location, interests, and etc. On profile can choose hobbies to match up with other users.
+- **Scope:** User creates profile with age, location, interests, and etc. On profile can like music to match up with other users.
 
 ## Product Spec
 
@@ -99,6 +99,7 @@ After covid and having to quarantine, social interaction can be difficult especi
    | author        | Pointer to User| profile author |
    | profilePicture| File     | users profile picture |
    | likedProfile  | Boolean  | shows if user liked another users profile |
+   | likedPost     | Boolean  | shows if user liked another users music post |
    | message       | String   | allows users to interact with each other 1 on 1 |
    | image         | File     | image that user posts | 
    
@@ -115,6 +116,9 @@ After covid and having to quarantine, social interaction can be difficult especi
     * Messaging Screen
        * (Create/POST) Create a new message
        * (Read/GET) Other users message
+    * Music Blog Screen
+      * (Like/PUT) Users can like music blogs
+      * (Update/PUT) Update likes so users who have similar music tastes can be matched
 
 
 - [Create basic snippets for each Parse network request]
