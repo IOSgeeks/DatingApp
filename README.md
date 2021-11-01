@@ -137,3 +137,6 @@ After covid and having to quarantine, social interaction can be difficult especi
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]  
 ##### Parse API 
+- Base URL - [http://www.anapioficeandfire.com/api](http://www.anapioficeandfire.com/api)
+
+
