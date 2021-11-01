@@ -111,7 +111,20 @@ After covid and having to quarantine, social interaction can be difficult especi
        * (Create/POST) Create a new profile
     * Stream Screen
        * (Read/GET) Query all user profiles so a given user can choose to like the profile or not
-    * Edit Profile Screen
+    * Profile Screen
+         ```swift
+         let query = PFQuery(className:"Post")
+         query.whereKey("author", equalTo: currentUser)
+         query.order(byDescending: "createdAt")
+         query.findObjectsInBackground { (posts: [PFObject]?, error: Error?) in
+            if let error = error { 
+               print(error.localizedDescription)
+            } else if let posts = posts {
+               print("Successfully retrieved \(posts.count) posts.")
+           // TODO: Do something with posts...
+            }
+         }
+         ```
        * (Update/PUT) Update user profile 
     * Messaging Screen
        * (Create/POST) Create a new message
