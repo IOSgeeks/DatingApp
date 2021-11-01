@@ -137,6 +137,14 @@ After covid and having to quarantine, social interaction can be difficult especi
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]  
 ##### Parse API 
-- Base URL - [http://www.anapioficeandfire.com/api](http://www.anapioficeandfire.com/api)
+- Base URL - [https://YOUR.PARSE-SERVER.HERE/parse/](https://docs.parseplatform.org/rest/guide/#your-configuration)
 
-
+   HTTP Verb | Endpoint | Description
+   ----------|----------|------------
+    `POST`    | /parse/classes/<className> | creating objects
+    `PUT`    | /parse/classes/<className>/<objectId> | updating objects
+    `DELETE`    | /parse/classes/<className>/<objectId>   | Deleting objects
+    `POST`    | /parse/users | signing up
+    `GET`    |  /parse/login | logging in
+    `POST`    | /parse/logout | logging out
+    
