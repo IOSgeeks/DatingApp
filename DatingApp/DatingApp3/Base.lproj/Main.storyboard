@@ -107,6 +107,7 @@
                                                 </buttonConfiguration>
                                                 <connections>
                                                     <action selector="onSignUp:" destination="BYZ-38-t0r" eventType="touchUpInside" id="WHO-Vo-lHy"/>
+                                                    <segue destination="CFH-Du-LcI" kind="presentation" id="fUG-hy-2h2"/>
                                                 </connections>
                                             </button>
                                         </subviews>
@@ -131,12 +132,12 @@
             </objects>
             <point key="canvasLocation" x="-239" y="115"/>
         </scene>
-        <!--View Controller-->
+        <!--Sign Up View Controller-->
         <scene sceneID="nYR-kf-HFV">
             <objects>
-                <viewController id="CFH-Du-LcI" sceneMemberID="viewController">
+                <viewController title="SignUpViewController" id="CFH-Du-LcI" userLabel="Sign Up View Controller" customClass="SignUpViewController" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="O8k-Ng-fcV">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Sign Up" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DhT-Ww-oMY">
@@ -180,6 +181,7 @@
                         <viewLayoutGuide key="safeArea" id="EUX-Zj-66X"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
+                    <navigationItem key="navigationItem" id="PW7-y8-lcb"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="gOx-KD-cTr" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
