@@ -182,6 +182,11 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <navigationItem key="navigationItem" id="PW7-y8-lcb"/>
+                    <connections>
+                        <outlet property="EmailVertification" destination="M4s-uj-pMe" id="cGj-Rg-9fE"/>
+                        <outlet property="Password" destination="c0Z-PZ-v23" id="B57-WM-85w"/>
+                        <outlet property="Username" destination="2qo-vz-2kc" id="mQQ-vw-F3n"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="gOx-KD-cTr" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
