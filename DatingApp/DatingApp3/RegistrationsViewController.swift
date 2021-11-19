@@ -53,6 +53,8 @@ class RegistrationsViewController: UIViewController {
         BirthDateTxt.text = dateFormatter.string(from: datePicker.date)
         view.endEditing(true)
         
+        
+        
     }
 
     /*
