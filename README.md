@@ -152,3 +152,5 @@ After covid and having to quarantine, social interaction can be difficult especi
 - gif below shows our apps homescreen and being able to sign up and login with the same account information
   
  https://giphy.com/gifs/lEhBlcoWG5hHlUHVh3
+ 
+ http://g.recordit.co/KLuuu1BtiC.gif
