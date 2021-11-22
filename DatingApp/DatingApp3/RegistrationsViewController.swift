@@ -13,15 +13,10 @@ class RegistrationsViewController: UIViewController {
     
     
     @IBOutlet weak var FullNameTxt: UITextField!
-    
     @IBOutlet weak var BirthDateTxt: UITextField!
-    
     @IBOutlet weak var GenderTxt: UITextField!
-    
     @IBOutlet weak var SexualOriTxt: UITextField!
-    
     @IBOutlet weak var LocationTxt: UITextField!
-    
     @IBOutlet weak var AgeTxt: UITextField!
     
     
