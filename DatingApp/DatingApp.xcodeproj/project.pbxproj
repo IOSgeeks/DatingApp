@@ -11,6 +11,7 @@
 		01478038273CC9520050AA00 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01478037273CC9520050AA00 /* FeedViewController.swift */; };
 		2C706402CAFBC786094BB2C0 /* Pods_DatingApp3_DatingApp3UITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 251C70914D56EECD1CF5D7D0 /* Pods_DatingApp3_DatingApp3UITests.framework */; };
 		9E1FAE2A8E0B4391078188AA /* Pods_DatingApp3Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 743D9408B396EB7F97DB05C2 /* Pods_DatingApp3Tests.framework */; };
+		A68DB966274308B300101557 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A68DB965274308B300101557 /* SignUpViewController.swift */; };
 		D427047E2739E4C800CA107A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D427047D2739E4C800CA107A /* AppDelegate.swift */; };
 		D42704802739E4C800CA107A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D427047F2739E4C800CA107A /* SceneDelegate.swift */; };
 		D42704852739E4C800CA107A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D42704832739E4C800CA107A /* Main.storyboard */; };
@@ -18,6 +19,7 @@
 		D427048A2739E4CA00CA107A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D42704882739E4CA00CA107A /* LaunchScreen.storyboard */; };
 		D42704952739E4CB00CA107A /* DatingApp3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D42704942739E4CB00CA107A /* DatingApp3Tests.swift */; };
 		D42704A02739E4CB00CA107A /* DatingApp3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D427049F2739E4CB00CA107A /* DatingApp3UITests.swift */; };
+		D47012FB2746B0E500A0F284 /* RegistrationsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D47012FA2746B0E500A0F284 /* RegistrationsViewController.swift */; };
 		F90974BD8C7C0DD556D54543 /* Pods_DatingApp3.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 147DC700787AE492E5AFE52B /* Pods_DatingApp3.framework */; };
 /* End PBXBuildFile section */
 
@@ -50,6 +52,7 @@
 		93EC8B5F034600682CF3687E /* Pods-DatingApp3.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DatingApp3.release.xcconfig"; path = "Target Support Files/Pods-DatingApp3/Pods-DatingApp3.release.xcconfig"; sourceTree = "<group>"; };
 		A14EC78FC66B628ABD4D7076 /* Pods-DatingApp3-DatingApp3UITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DatingApp3-DatingApp3UITests.release.xcconfig"; path = "Target Support Files/Pods-DatingApp3-DatingApp3UITests/Pods-DatingApp3-DatingApp3UITests.release.xcconfig"; sourceTree = "<group>"; };
 		A2CE640243F284A2B1986605 /* Pods-DatingApp3Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DatingApp3Tests.release.xcconfig"; path = "Target Support Files/Pods-DatingApp3Tests/Pods-DatingApp3Tests.release.xcconfig"; sourceTree = "<group>"; };
+		A68DB965274308B300101557 /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
 		D427047A2739E4C800CA107A /* DatingApp3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DatingApp3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D427047D2739E4C800CA107A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D427047F2739E4C800CA107A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +66,7 @@
 		D427049B2739E4CB00CA107A /* DatingApp3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DatingApp3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D427049F2739E4CB00CA107A /* DatingApp3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatingApp3UITests.swift; sourceTree = "<group>"; };
 		D42704A12739E4CB00CA107A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D47012FA2746B0E500A0F284 /* RegistrationsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +153,8 @@
 				D42704862739E4CA00CA107A /* Assets.xcassets */,
 				D42704882739E4CA00CA107A /* LaunchScreen.storyboard */,
 				D427048B2739E4CA00CA107A /* Info.plist */,
+				A68DB965274308B300101557 /* SignUpViewController.swift */,
+				D47012FA2746B0E500A0F284 /* RegistrationsViewController.swift */,
 			);
 			path = DatingApp3;
 			sourceTree = "<group>";
@@ -410,9 +416,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				01478036273CC9180050AA00 /* LoginViewController.swift in Sources */,
+				D47012FB2746B0E500A0F284 /* RegistrationsViewController.swift in Sources */,
 				D427047E2739E4C800CA107A /* AppDelegate.swift in Sources */,
 				01478038273CC9520050AA00 /* FeedViewController.swift in Sources */,
 				D42704802739E4C800CA107A /* SceneDelegate.swift in Sources */,
+				A68DB966274308B300101557 /* SignUpViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

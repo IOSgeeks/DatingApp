@@ -30,8 +30,8 @@ After covid and having to quarantine, social interaction can be difficult especi
 
 **Required Must-have Stories**
 
-* User can create a new account
-* User can login
+* User can create a new account (COMPLETED)
+* User can login (COMPLETED)
 * User can search for other users according to location
 * User can like a blog
 * User can follow/unfollow another user
@@ -148,3 +148,9 @@ After covid and having to quarantine, social interaction can be difficult especi
     `GET`    |  /parse/login | logging in
     `POST`    | /parse/logout | logging out
     
+### PROGRESS
+- gif below shows our apps homescreen and being able to sign up and login with the same account information
+  
+ https://giphy.com/gifs/lEhBlcoWG5hHlUHVh3
+ 
+ http://g.recordit.co/KLuuu1BtiC.gif
